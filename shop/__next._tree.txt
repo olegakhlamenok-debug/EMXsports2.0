@@ -1,2 +1,2 @@
-:HL["/EMXsports2.0/_next/static/chunks/dbf80a727dc73cc6.css","style"]
-0:{"buildId":"r2axvD4wN61_2nibLR3P7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"shop","paramType":null,"paramKey":"shop","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/EMXsports2.0/_next/static/chunks/b8d44c3b4bae1ff6.css","style"]
+0:{"buildId":"NXz34ARyV-KCYqqbbG9_2","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"shop","paramType":null,"paramKey":"shop","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
