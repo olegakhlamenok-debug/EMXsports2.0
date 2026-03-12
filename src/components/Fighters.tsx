@@ -44,7 +44,7 @@ export default function Fighters() {
                     {fighter.name}
                   </h3>
                   {fighter.nickname && (
-                    <div className="text-gray-500 font-heading text-xs italic mt-1.5">
+                    <div className="text-gray-700 font-heading text-xs font-semibold tracking-wide mt-1.5">
                       &ldquo;{fighter.nickname}&rdquo;
                     </div>
                   )}
@@ -58,8 +58,8 @@ export default function Fighters() {
                   </div>
                   {fighter.ranking && (
                     <div className="mt-3">
-                      <span className="text-[#c41e3a] font-heading text-[10px] tracking-[0.2em] uppercase">
-                        🏆 {fighter.ranking}
+                      <span className="inline-block bg-[#c41e3a] text-white font-heading font-bold text-[10px] tracking-[0.15em] uppercase px-2.5 py-1">
+                        {fighter.ranking}
                       </span>
                     </div>
                   )}
