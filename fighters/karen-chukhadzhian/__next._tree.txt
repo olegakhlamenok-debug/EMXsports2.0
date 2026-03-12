@@ -1,6 +1,6 @@
-:HL["/EMXsports2.0/_next/static/chunks/befea4e70b93e2b2.css","style"]
+:HL["/EMXsports2.0/_next/static/chunks/7cfaf3ab76f0d4c7.css","style"]
 :HL["/EMXsports2.0/images/fighters/karen-chukhadzhian.jpg","image"]
 :HL["/EMXsports2.0/images/gallery/5.jpg","image"]
 :HL["/EMXsports2.0/images/gallery/6.jpg","image"]
 :HL["/EMXsports2.0/images/gallery/3.jpg","image"]
-0:{"buildId":"fHY5-ykm0qvdKOzJP6PuG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"fighters","paramType":null,"paramKey":"fighters","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"karen-chukhadzhian","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"F1yoofhru6QMYsl8aqVBz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"fighters","paramType":null,"paramKey":"fighters","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"karen-chukhadzhian","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
